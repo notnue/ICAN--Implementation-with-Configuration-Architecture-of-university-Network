@@ -7,7 +7,6 @@ Complete Design  and configured whole BTech branches network communications alon
 #Since this project size is much larger than required size as per github platform, so following are the links for the projects and report while  designing the project 
 ![networksssssssssssssssssssssssssss](https://user-images.githubusercontent.com/84118988/145435809-b3cfc385-9178-4b60-9498-ad8ebd42237d.png)
 
-#Project Link: https://www.dropbox.com/sh/sv9va0val6v302t/AADrqZNtueMLv2VlBvlZDk5ya?dl=0
+#Project Link: https://bit.ly/neel-git-ntwprj
 
-#Report Link: https://www.dropbox.com/sh/sv9va0val6v302t/AADrqZNtueMLv2VlBvlZDk5ya?dl=0
-
+#Report Link: https://bit.ly/neel-git-prjrprt
